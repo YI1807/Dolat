@@ -34,6 +34,8 @@ main {
   display: block;
   background-image: url("background.png");
   size: 100vh;
+    height: 100vh;
+
   /* background-color:#358175; */
   padding-top: 3em;
   padding-bottom: 3em;   
